@@ -17,6 +17,11 @@ I help startups and small teams **build and validate REST APIs**.
 **Tools:** Git • Docker • Swagger/OpenAPI • CI/CD  
 **Databases:** MySQL • PostgreSQL • MongoDB
 
+### ✅ What you get working with me
+- APIs ready for production (clean, secure, documented)
+- Automated tests that catch bugs before deployment
+- Clear communication and realistic delivery times
+
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
@@ -31,11 +36,15 @@ I help startups and small teams **build and validate REST APIs**.
 - 🌍 Available for remote freelance projects
 - 🔍 Focusing on backend APIs & quality assurance
 
-### 📫 Let's connect
+### 📩 Interested in working together?
 
-- 💼 Open for freelance work (backend APIs, testing, bug fixes)
-- 📧 vtkor9@gmail.com
+If you need:
+- A REST API built from scratch
+- Tests added to an existing backend
+- Bugs fixed or code refactored
 
+Feel free to contact me:
+📧 vktor9@gmail.com
 ---
 
 **🚀 I don't just write code—I verify it works.**
