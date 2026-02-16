@@ -1,100 +1,104 @@
 # 👋 Hi, I'm Victor Lopez
 
-## Backend Developer & QA Specialist
+## Software Engineering Graduate | Backend Developer
 
-I help startups and small teams **build and validate secure REST APIs**.
-
----
-
-## 🛠️ What I do
-
-- **Backend Development**: Spring Boot, Node.js, Python
-- **API Testing & QA**: Automated testing, validation, security checks
-- **Clean Code**: SOLID principles, design patterns, comprehensive documentation
-
----
-
-## 🎯 Tech Stack
-
-**Backend:** Java (Spring Boot) • Node.js • Python  
-**Testing:** JUnit • PyTest • Postman • RestAssured  
-**Security:** JWT • OAuth2 • BCrypt • Spring Security  
-**Tools:** Git • Docker • Swagger/OpenAPI • CI/CD  
-**Databases:** PostgreSQL • MySQL • MongoDB
-
----
-
-## ✅ What you get working with me
-
-- ✓ **Production-ready APIs** (secure, tested, documented)
-- ✓ **Automated testing** that catches bugs before deployment
-- ✓ **Clear communication** and realistic delivery times
-- ✓ **Professional code** following industry best practices
-
----
-
-## 🚀 Featured Projects
-
-### Backend APIs
-
-**[secure-rest-api-demo](https://github.com/lopezviktor/secure-rest-api-demo)** - Production-ready Spring Boot REST API  
-`Spring Boot` `JWT Auth` `PostgreSQL` `Docker` `Testcontainers`
-- ✓ JWT authentication with role-based authorization
-- ✓ Comprehensive integration testing
-- ✓ Database migrations with Flyway
-- ✓ OpenAPI/Swagger documentation
-- ✓ CI/CD pipeline
-
-### QA & Testing
-
-**[qa-automation-framework](https://github.com/lopezviktor/qa-automation-framework)** - API testing framework  
-`Python` `PyTest` `API Testing` `Automation`
-- ✓ Automated REST API validation
-- ✓ Custom assertion helpers
-- ✓ HTML reporting
-- ✓ CI/CD ready
-
-### Other Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [DSA-Showcase](https://github.com/lopezviktor/DSA-Showcase) | Data structures & algorithms with tests | Python |
-| [EdgeAI-SmartIrrigationSystem](https://github.com/lopezviktor/EdgeAI-SmartIrrigationSystem) | IoT + Edge AI irrigation system | Arduino, ESP32, TinyML |
+BSc Software Engineering student at York St John University (UK), graduating June 2026.  
+Specializing in **backend development**, **IoT systems**, and **edge computing**.
 
 ---
 
 ## 🎓 Currently
 
-- 📚 Software Engineering @ York St John University (UK)
-- 🌍 **Available for remote freelance work**
-- 🔍 Specializing in backend APIs & quality assurance
+- Final year Software Engineering @ York St John University
+- Dissertation: ML-based Intrusion Detection System for IoT Networks (Edge vs. Cloud)
+- Returning to Madrid, Spain in June 2026
 
 ---
 
-## 💼 Open for freelance work
+## 🛠️ Tech Stack
 
-**I can help you with:**
-- Building secure REST APIs from scratch
-- Adding authentication (JWT, OAuth2) to existing systems
-- Writing automated tests for your backend
-- Fixing bugs and refactoring code
-- API documentation and integration
+**Backend:** Java (Spring Boot) • Python • Node.js  
+**Cloud/DevOps:** Docker • AWS • CI/CD (GitHub Actions)  
+**Databases:** PostgreSQL • MySQL • MongoDB  
+**Testing:** JUnit • PyTest • Testcontainers • TDD  
+**Security:** JWT • OAuth2 • Spring Security  
+**Other:** IoT protocols • Edge AI/ML • REST APIs
 
-**Typical projects:**
-- Task management systems
-- User authentication APIs
-- CRUD applications with role-based access
-- API testing and validation
-- Database design and migrations
+---
+
+## 🚀 Featured Projects
+
+### 🌱 [EdgeAI-SmartIrrigationSystem](https://github.com/lopezviktor/EdgeAI-SmartIrrigationSystem)
+**IoT system with sensors and edge AI for intelligent water optimization**  
+`Arduino` `ESP32` `TinyML` `Python` `Machine Learning` `IoT Protocols`
+
+Real-time sensor data processing on edge devices with ML models for intelligent irrigation decisions.  
+**First Class** | Academic Project 2025
+
+---
+
+### 🔐 [secure-rest-api-demo](https://github.com/lopezviktor/secure-rest-api-demo)
+**Production-ready Spring Boot REST API with authentication**  
+`Spring Boot` `JWT Auth` `PostgreSQL` `Docker` `Testcontainers` `Flyway`
+
+- JWT authentication with role-based authorization
+- Comprehensive integration testing with Testcontainers
+- Database migrations with Flyway
+- OpenAPI/Swagger documentation
+- CI/CD pipeline ready
+
+---
+
+### 🧪 [qa-automation-framework](https://github.com/lopezviktor/qa-automation-framework)
+**API testing automation framework**  
+`Python` `PyTest` `REST API Testing` `CI/CD`
+
+Automated REST API validation framework with custom assertion helpers and HTML reporting.
+
+---
+
+### 📚 [DSA-Showcase](https://github.com/lopezviktor/DSA-Showcase)
+**Data structures & algorithms implementations** *(Work in Progress)*  
+`Python` `Algorithms` `Testing`
+
+Common algorithms and data structures with test-driven development approach.
+
+---
+
+## 🎓 Education & Experience
+
+**BSc Software Engineering** - York St John University, UK  
+**CFGS Desarrollo de Aplicaciones Multiplataforma** - Spain
+
+**Frontend Developer Intern** @ Neoris Madrid   
+Angular/TypeScript development in agile team environment
+
+**8+ years in commercial roles**
+Strong communication, adaptability, and client-facing skills
+
+---
+
+## 🎯 What I'm looking for
+
+**Junior/Graduate Backend Developer** positions starting **Summer 2026**
+
+**Interested in:**
+- Backend development with Java/Spring Boot or Python
+- IoT and edge computing applications
+- Machine learning integration and ML operations
+- Systems engineering and software architecture
+- Teams that value code quality and continuous learning
 
 ---
 
 ## 📫 Let's connect
 
 📧 **Email:** vktor9@gmail.com  
-💼 **Open to:** Backend development, API testing, freelance projects  
-🌍 **Location:** York, UK (Remote work available)
+💼 **LinkedIn:** [linkedin.com/in/victor-lopez-lopez-6b5166106](https://www.linkedin.com/in/victor-lopez-lopez-6b5166106/)  
+📍 **Location:** York, UK → Madrid, Spain (from June 2026)  
+🌐 **Languages:** Spanish (native), English (fluent)
 
 ---
 
-**🚀 I don't just write code—I verify it works.**
+
+**🚀 I don't just write code—I think about how systems work.**
