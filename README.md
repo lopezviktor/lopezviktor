@@ -28,6 +28,19 @@ Specializing in **backend development**, **IoT systems**, and **edge computing**
 
 ## 🚀 Featured Projects
 
+### 🤖 [incident-management-api](https://github.com/lopezviktor/incident-management-api)
+**AI-powered REST API for technical incident management**  
+`Spring Boot 3` `OpenAI GPT-4o-mini` `PostgreSQL` `Docker` `TDD` `Swagger`
+
+- Automatic incident classification by severity and category using OpenAI
+- Similarity search to find related past incidents
+- 27 unit tests with full TDD approach
+- Deployed on Render with Swagger documentation
+
+🌐 **Live Demo:** [incident-management-api-w1zj.onrender.com](https://incident-management-api-w1zj.onrender.com/swagger-ui.html)
+
+--- 
+
 ### 🌱 [EdgeAI-SmartIrrigationSystem](https://github.com/lopezviktor/EdgeAI-SmartIrrigationSystem)
 **IoT system with sensors and edge AI for intelligent water optimization**  
 `Arduino` `ESP32` `TinyML` `Python` `Machine Learning` `IoT Protocols`
