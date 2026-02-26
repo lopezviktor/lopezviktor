@@ -71,7 +71,7 @@ Automated REST API validation framework with custom assertion helpers and HTML r
 ---
 
 ### 📚 [DSA-Showcase](https://github.com/lopezviktor/DSA-Showcase)
-**Data structures & algorithms implementations** *(Work in Progress)*  
+**Data structures & algorithms implementations** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 `Python` `Algorithms` `Testing`
 
 Common algorithms and data structures with test-driven development approach.
