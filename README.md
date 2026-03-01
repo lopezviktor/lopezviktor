@@ -29,13 +29,14 @@ Specializing in **backend development**, **IoT systems**, and **edge computing**
 ## 🚀 Featured Projects
 
 ### 🤖 [incident-management-api](https://github.com/lopezviktor/incident-management-api)
-**AI-powered REST API for technical incident management**  ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
-`Spring Boot 3` `OpenAI GPT-4o-mini` `PostgreSQL` `Docker` `TDD` `Swagger`
+**AI-powered REST API for technical incident management** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+`Spring Boot 3` `OpenAI GPT-4o-mini` `PostgreSQL` `Docker` `TDD` `Swagger` `Spring Security` `JWT` `GitHub Actions`
 
-- Automatic incident classification by severity and category using OpenAI
+- AI-powered incident classification by severity and category using OpenAI GPT-4o-mini
+- JWT authentication with Spring Security and role-based access control
 - Similarity search to find related past incidents
+- CI/CD pipeline with GitHub Actions — tests run on every push, auto-deploy to Render
 - 46 unit tests with full TDD approach
-- Deployed on Render with Swagger documentation
 
 🌐 **Live Demo:** [incident-management-api-w1zj.onrender.com](https://incident-management-api-w1zj.onrender.com/swagger-ui.html)
 
