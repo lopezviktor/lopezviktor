@@ -34,7 +34,7 @@ Specializing in **backend development**, **IoT systems**, and **edge computing**
 
 - Automatic incident classification by severity and category using OpenAI
 - Similarity search to find related past incidents
-- 27 unit tests with full TDD approach
+- 46 unit tests with full TDD approach
 - Deployed on Render with Swagger documentation
 
 🌐 **Live Demo:** [incident-management-api-w1zj.onrender.com](https://incident-management-api-w1zj.onrender.com/swagger-ui.html)
