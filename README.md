@@ -36,7 +36,7 @@ Specializing in **backend development**, **IoT systems**, and **edge computing**
 - JWT authentication with Spring Security and role-based access control
 - Similarity search to find related past incidents
 - CI/CD pipeline with GitHub Actions — tests run on every push, auto-deploy to Render
-- 46 unit tests with full TDD approach
+- 56 unit tests with full TDD approach
 
 🌐 **Live Demo:** [incident-management-api-w1zj.onrender.com](https://incident-management-api-w1zj.onrender.com/swagger-ui.html)
 
